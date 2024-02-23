@@ -12,10 +12,10 @@ AttenGpKa is a graph neural network for predicting pKa of different molecules in
 * scikit-learn 1.2.2
      
 ### 2 usage
-We open-source all data, codes and models used in this work. A user-friendly software for Windows OS is also developed for anyone who wants to use our model.
+We have open-sourced all the data, code, and models used in this work. Additionally, we have developed a user-friendly software for Windows OS, which allows anyone to easily use our model.  
 
 ### 3 model training and predicting
-We have open-sourced all the data, code, and models used in this work. Additionally, we have developed a user-friendly software for Windows OS, which allows anyone to easily use our model.   
+All of our trained models are available for use; however, users can still train their own models. Our published code can run in two modes: training and prediction.
 
 If users want to train their own model with our provided training data:  
 ```bash
