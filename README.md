@@ -2,7 +2,7 @@
 AttenGpKa is a graph neural network for predicting pKa of different molecules in various solvents.
 
 ### 1 environment requirements  
-The required packages and their versions are included in the ```requirements.txt``` file. Run the following commands to build your environment:   
+The required packages and their versions are included in the [requirements.txt](./requirements.txt) file. Run the following commands to build your environment:   
 ```bash
 conda create -y -n AttenGpKa python==3.8.11
 conda activate AttenGpKa
