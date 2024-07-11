@@ -1,5 +1,13 @@
 # AttenGpKa
-AttenGpKa is a graph neural network for predicting pKa of different molecules in various solvents.
+AttenGpKa is a graph neural network for predicting pKa of different molecules in various solvents. If you use resources of this [project](https://zenodo.org/records/11436576), please cite:                         
+
+1. H. An, X. Liu, W. Cai, X. Shao. AttenGpKa: A Universal Predictor of Solvation Acidity Using Graph Neural Network and Molecular Topology. Journal of Chemical Information and Modeling, 2024. DOI: 10.1021/acs.jcim.4c00449
+
+The training data, which is collected from the iBond database, can be found in the Supporting Information of our published paper (https://doi.org/10.1021/acs.jcim.4c00449).
+
+If you use this data in your work, in addition to this work, please also cite:
+
+2. J.-D. Yang, X.-S. Xue, P. Ji, X. Li, J.-P. Cheng, Internet Bond-energy Databank (pKa and BDE): iBonD Home Page. http://ibond.nankai.edu.cn.
 
 ### 1 environment requirements  
 The required packages and their versions are included in the [requirements.txt](./requirements.txt) file. Run the following commands to build your environment:   
@@ -11,7 +19,7 @@ conda install -y ipython
 ```
      
 ### 2 usage
-We open-sourced all the data, codes, and models used in this work. Additionally, we have developed a user-friendly software for Windows OS, which allows anyone to easily use our model. 
+We open-sourced all the [data](https://doi.org/10.1021/acs.jcim.4c00449), [codes, and models](https://zenodo.org/records/11436576) used in this work. Additionally, we have developed a user-friendly software for Windows OS, which allows anyone to easily use our model. 
 
 ### 3 model training and predicting
 If users want to train their own model with our provided training data:  
