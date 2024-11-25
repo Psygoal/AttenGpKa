@@ -45,5 +45,6 @@ Commercialization of this product is prohibited without our permission.
 ### 5 Citing this work
 Our published data is collected from the iBond database. If you use this data in your work, please cite:    
 ```bash
-J.-D. Yang, X.-S. Xue, P. Ji, X. Li, J.-P. Cheng, Internet Bond-energy Databank (pKa and BDE): iBonD Home Page. http://ibond.nankai.edu.cn or  http://ibond.chem.tsinghua.edu.cn.
+1. H. An, X. Liu, W. Cai, X. Shao. AttenGpKa: A Universal Predictor of Solvation Acidity Using Graph Neural Network and Molecular Topology. Journal of Chemical Information and Modeling, 2024. DOI: 10.1021/acs.jcim.4c00449
+2. J.-D. Yang, X.-S. Xue, P. Ji, X. Li, J.-P. Cheng, Internet Bond-energy Databank (pKa and BDE): iBonD Home Page. http://ibond.nankai.edu.cn or  http://ibond.chem.tsinghua.edu.cn.
 ```
